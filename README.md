@@ -50,4 +50,3 @@ Backup	/dev/sdX	/root/chave	luks
 ```
 # mount | greep  media
 ```
-
